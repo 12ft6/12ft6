@@ -6,4 +6,4 @@
 -  I do NOT plan to be a server developer for hire. All my services will be shown on my own server when it's released.
 
 // The best way to get into contact with me is through my development discord! I will be updating this as time goes by to give more information of what I plan to do and what
-I am currently doing at that point of time.
+I am currently doing at that point of time. //
